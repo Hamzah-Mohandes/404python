@@ -27,13 +27,22 @@
 
 
 
+# a = 8
+# b = 9.7
+# c = "hello"
+# print(type(a))
+# print(type(b))
+# print(type(c))
+
+
 a = 8
-b = 9.7
-c = "hello"
-print(type(a))
-print(type(b))
-print(type(c))
+b = "python lovers"
+c = f"{a} {b} -> "
+print(c)
 
-
+print(f"""
+{a} {b} ->
+next = {a+1}
+""")
 
 
