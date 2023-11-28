@@ -15,12 +15,18 @@
 #     print("startswith('H'):", input_string.startswith('H'))
 #     print("endswith('d'):", input_string.endswith('d'))
 #     print("len():", len(input_string))
-#
 # string_methods_practice()
 
-s = input("just for fun give me a sentence : -> ")
-mid = len(s)//2
-print(s[mid])
+
+
+
+# s = input("just for fun give me a sentence : -> ")
+# mid = len(s)//2
+# print(s[mid])
+
+
+
+
 
 
 
