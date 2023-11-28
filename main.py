@@ -27,6 +27,13 @@
 
 
 
+a = 8
+b = 9.7
+c = "hello"
+print(type(a))
+print(type(b))
+print(type(c))
+
 
 
 
